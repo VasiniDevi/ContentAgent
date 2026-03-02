@@ -1,0 +1,4 @@
+interface:
+  display_name: "Motion Quality Gate"
+  short_description: "Objective checks for motion render readiness"
+  default_prompt: "Use this skill to validate rendered motion videos against text, contrast, timing, and metadata quality thresholds."

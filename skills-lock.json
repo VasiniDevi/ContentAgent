@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "lottie_engine": {
+      "source": "VasiniDevi/motion-skills",
+      "sourceType": "github",
+      "computedHash": "f28c01be8d8c464a477aca766adadd9180bbfce986d8a62d3a74fa41272b10b0"
+    },
+    "motion-engine": {
+      "source": "VasiniDevi/motion-skills",
+      "sourceType": "github",
+      "computedHash": "2a505126b4268570251445db9eed4b2c9774df96fc1348a6d65d778b934904d0"
+    },
+    "motion_templates": {
+      "source": "VasiniDevi/motion-skills",
+      "sourceType": "github",
+      "computedHash": "2101a87a7c52e8aea0d64b1a72d80e82f4c04bb1f75b7fdc044f56b490e213e7"
+    }
+  }
+}

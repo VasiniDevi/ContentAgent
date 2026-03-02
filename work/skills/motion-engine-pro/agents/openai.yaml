@@ -1,0 +1,4 @@
+interface:
+  display_name: "Motion Engine Pro"
+  short_description: "Advanced effects and optimization for motion_engine"
+  default_prompt: "Use this skill to apply cached glow cards, atmospheric overlays, and performance-safe pro motion patterns."

@@ -1,0 +1,74 @@
+{
+  "expected": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "duration_min": 33.0,
+    "duration_max": 37.0
+  },
+  "slides": [
+    {
+      "id": "title",
+      "texts": [
+        "Mastering Claude Code",
+        "Pro workflow guide"
+      ]
+    },
+    {
+      "id": "rule_1",
+      "texts": [
+        "Interrogate first",
+        "Ask before code.",
+        "Goal?",
+        "Constraints?",
+        "Edge cases?",
+        "Clarity prevents rework"
+      ]
+    },
+    {
+      "id": "rule_2",
+      "texts": [
+        "One feature at a time",
+        "Build A. Test A. Then B.",
+        "Ship in stable slices"
+      ]
+    },
+    {
+      "id": "rule_3",
+      "texts": [
+        "Refresh at 50%",
+        "Fresh context. accurate code.",
+        "New session. better precision"
+      ]
+    },
+    {
+      "id": "summary",
+      "texts": [
+        "The 3 rules",
+        "Interrogate first",
+        "One at a time",
+        "Refresh at 50%"
+      ]
+    }
+  ],
+  "contrast_pairs": [
+    {
+      "label": "headline_on_card",
+      "fg": "#f4f7ff",
+      "bg": "#121a31",
+      "min_ratio": 4.5
+    },
+    {
+      "label": "body_on_card",
+      "fg": "#c6cdee",
+      "bg": "#121a31",
+      "min_ratio": 4.5
+    },
+    {
+      "label": "label_on_card",
+      "fg": "#97a4d6",
+      "bg": "#121a31",
+      "min_ratio": 3.0
+    }
+  ]
+}

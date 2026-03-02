@@ -1,0 +1,67 @@
+{
+  "passed": false,
+  "checks": [
+    {
+      "name": "video_exists",
+      "passed": true,
+      "details": "Found file (7512554 bytes)"
+    },
+    {
+      "name": "width",
+      "passed": true,
+      "details": "actual=1080 expected=1080"
+    },
+    {
+      "name": "height",
+      "passed": true,
+      "details": "actual=1920 expected=1920"
+    },
+    {
+      "name": "fps",
+      "passed": true,
+      "details": "actual=30.00 expected=30.00"
+    },
+    {
+      "name": "duration",
+      "passed": true,
+      "details": "actual=34.50s range=[33.00, 37.00]"
+    },
+    {
+      "name": "frames",
+      "passed": true,
+      "details": "frames=1035"
+    },
+    {
+      "name": "text_budget",
+      "passed": true,
+      "details": "All text blocks <= 12 words"
+    },
+    {
+      "name": "contrast",
+      "passed": true,
+      "details": "All contrast pairs passed"
+    },
+    {
+      "name": "safe_margins",
+      "passed": true,
+      "details": "All slides have safe margins"
+    },
+    {
+      "name": "timing_consistency",
+      "passed": false,
+      "details": "4363191360: exit_dur=0.180s < 0.20s; 4510978256: exit_dur=0.180s < 0.20s; 4510975040: exit_dur=0.180s < 0.20s; 4511268992: enter_dur=0.010s < 0.20s; 4511268992: exit_dur=0.010s < 0.20s"
+    },
+    {
+      "name": "pacing_rhythm",
+      "passed": true,
+      "details": "All slide durations within 2\u00d7 of mean (6.8s)"
+    }
+  ],
+  "meta": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "frames": 1035,
+    "duration": 34.5
+  }
+}

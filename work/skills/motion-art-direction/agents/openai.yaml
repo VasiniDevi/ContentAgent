@@ -1,0 +1,4 @@
+interface:
+  display_name: "Motion Art Direction"
+  short_description: "Storyboard rules for polished motion infographics"
+  default_prompt: "Use this skill to define styleframes, layout rhythm, hierarchy, and typography before animating motion infographic slides."

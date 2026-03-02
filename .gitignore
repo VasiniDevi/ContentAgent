@@ -1,0 +1,12 @@
+.DS_Store
+.env
+__pycache__/
+*.pyc
+*.mp4
+*.mov
+*.avi
+work/styleframes/
+work/comparison/
+node_modules/
+frames/*.png
+frames/*.jpg
